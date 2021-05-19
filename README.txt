@@ -1,1 +1,0 @@
-Segona versioï de README
